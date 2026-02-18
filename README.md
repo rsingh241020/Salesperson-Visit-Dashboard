@@ -1,82 +1,71 @@
-# Salesperson Visit & Sales Analysis Dashboard
+# Salesperson Visit & Distance Analysis Dashboard
 
 ## 📊 Project Overview
 
-This repository contains Power BI dashboards developed to analyze salesperson visits, travel distance, and sales performance using business datasets.
-
-The dashboards help track field staff productivity, visit frequency, travel coverage, and sales insights through interactive visualizations.
+This project analyzes salesperson visit data using latitude & longitude coordinates to track travel distance, visit productivity, and regional performance through interactive dashboards.
 
 ---
 
-## 🛠️ Tools & Technologies Used
+## 🛠️ Tools Used
 
-* Power BI Desktop
+* Power BI
 * Azure Maps
-* Excel Dataset
-* SQL (Data Extraction)
+* Excel
+* SQL
 
 ---
 
-## 🔑 Key Dashboard Features
+## 🔑 Key Features
 
-* Salesperson Visit Count Tracking
-* Visit Date & Time Analysis
-* Distance Covered Measurement
+* Visit Count Tracking
+* Visit Time Analysis
+* Distance Covered Calculation
+* Salesperson Performance KPIs
 * Region-wise Visit Insights
-* Sales Performance Reporting
-* KPI Metrics Visualization
 * Dynamic Slicers & Filters
-* Map-based Location Tracking
-
----
-
-## 🗂️ Dashboard Files Included
-
-| File Name                             | Description                                     |
-| ------------------------------------- | ----------------------------------------------- |
-| 13_Feb.pbix                           | Daily visit and sales dashboard                 |
-| Map_Details.pbix                      | Location & route visualization using Azure Maps |
-| Sales_Report_9_Feb.pbix               | Sales performance analysis report               |
-| Updated_GP.pbix                       | KPI & business performance dashboard            |
-| Visit_Date_Visit_Count_Date_Wise.pbix | Date-wise visit tracking dashboard              |
+* Map-based Visualization
 
 ---
 
 ## 🖼️ Dashboard Screenshots
 
-### Visit & KPI Overview
+### 1️⃣ KPI Overview
 
-![Dashboard View](Screenshot 2026-02-18 112009.png)
+![KPI Dashboard](1.png)
 
-### Sales & Visit Analysis
+---
 
-![Analysis View](Screenshot 2026-02-18 112444.png)
+### 2️⃣ Visit Count Analysis
+
+![Visit Count](2.png)
+
+---
+
+### 3️⃣ Distance Tracking Dashboard
+
+![Distance Analysis](3.png)
+
+---
+
+### 4️⃣ Azure Map Visualization
+
+![Map View](4.png)
+
+---
+
+### 5️⃣ Date-wise Visit Insights
+
+![Date Analysis](5.png)
 
 ---
 
 ## 📈 Insights Generated
 
 * Identified high-activity sales regions
-* Tracked total distance covered by field staff
-* Monitored daily visit productivity
-* Evaluated salesperson performance
+* Tracked total travel distance
+* Measured field productivity
 * Analyzed visit trends date-wise
 
 ---
 
-## 📁 Repository Contents
-
-* Power BI Dashboard Files (.pbix)
-* Sales & Visit Datasets
-* Dashboard Screenshots
-* KPI Reports
-
----
-
-## 🚀 Use Case
-
-This project was developed to support business operations by providing actionable insights into field sales activities and performance tracking.
-
----
-
-*Developed as part of Data Analyst internship work using organizational datasets.*
+*Developed during Data Analyst Internship using organizational datasets.*
